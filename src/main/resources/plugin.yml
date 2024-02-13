@@ -1,0 +1,8 @@
+name: ServerAPI
+version: '${project.version}'
+main: de.mika.serverapi.ServerAPI
+api-version: '1.16'
+
+commands:
+  rank:
+  ban:
